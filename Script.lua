@@ -1,3 +1,7 @@
+game.Players.LocalPlayer:Kick("Stop Exploiting, You will be banned next time. This is a warning -Zickoi")
+rconsoleprint('@@RED@@')
+rconsoleprint('AntiCheat Developed By Zickoi')
+
 _, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
 
